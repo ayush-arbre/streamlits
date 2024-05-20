@@ -1,4 +1,5 @@
 streamlit
 pyqrcode
 opencv-python
+cv2
 pyzbar
